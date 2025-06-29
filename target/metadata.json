@@ -1,0 +1,8 @@
+{
+    "game_names": [
+        "hello_world",
+        "rock_paper_scissors",
+        "simon_says"
+    ],
+    "number_of_games": 3
+}
